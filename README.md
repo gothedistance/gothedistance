@@ -8,7 +8,7 @@
 
 ## Brief Summary
 - 🔭 I’m currently working on CEO/Quality Start,Inc 
-- 🌱 I’m currently learning and diving into T3 Stack.
+- 🌱 I’m currently learning and diving into T3 Stack(Remix based).
 - 👯 I’m looking to collaborate on overseas project!
 - 🤔 I’m looking for help with who can do coding review on T3 Stack.
 - 📫 How to reach me: michitaka [at] quality-start.in
