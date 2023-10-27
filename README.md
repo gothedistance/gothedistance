@@ -1,7 +1,6 @@
 ## About Me
 - I am Japanese born at 1979. English at a conversational level.
-- FrontEnd: React/Next.js on Tailwind CSS, Flutter
-- Backend: T3 Stack(tRPC/Prisma), Python(FastAPI/Flask, SQLAlchemy)
+- Flutter/Remix/tRPC/Prisma/Python/FastAPI/SQLAlchemy/Flask. seldom WPF/C#.
 - PaaS: CGP(CloudRun/Cloud SQL/Cloud Functions/ Firebase), seldom AWS.
 - Speciality: Team Building x facilitation = successfully completing projects.
 - LOVE BASEBALL!!! MLB: SEA/STL. NPB: Yakult Swallows / Orix Buffaloes.
