@@ -1,6 +1,6 @@
 ## About Me
 - I am Japanese born at 1979. English at a conversational level.
-- Flutter/Remix/tRPC/Prisma/Python/FastAPI/SQLAlchemy/Flask. seldom WPF/C#.
+- ♡ Flutter/Remix/Python.
 - PaaS: CGP(CloudRun/Cloud SQL/Cloud Functions/ Firebase), seldom AWS.
 - Speciality: Team Building x facilitation = successfully completing projects.
 - LOVE BASEBALL!!! MLB: SEA/STL. NPB: Yakult Swallows / Orix Buffaloes.
