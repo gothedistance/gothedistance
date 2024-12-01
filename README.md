@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on CEO/Quality Start,Inc 
 - 🌱 Flutter / Remix tech-lead, seldom Project Manager
 - 👯 I’m looking to collaborate on overseas project!
-- 🤔 I’m looking for help with who can do coding review on Next.js.
 - 📫 How to reach me: michitaka [at] quality-start.in
 
 <p align="left"> 
